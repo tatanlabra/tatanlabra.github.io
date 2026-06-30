@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tatanlabra.github.io/3cucharadas/sitemap.xml
